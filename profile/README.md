@@ -7,11 +7,11 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
  
 ## Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+- [Workshop: Natural Language Processing with TensorFlow with Merve Noyan](https://www.youtube.com/watch?v=nqgjcVitshw)
 - [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
 - [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
 - [Machine Learning Competitivo: top 1% en Kaggle - Daniel Pereda](https://www.youtube.com/watch?v=0o72ndnTnCQ)
 - [Consejos prácticos para proyectos de Machine Learning - Matías Sanchez Cabrera](https://www.youtube.com/watch?v=JLG1qxV5cfk)
-- [Ética, algoritmos y biometría - Vera Sativa](https://www.youtube.com/watch?v=eFYlR8y-Xcg)
 <!-- YOUTUBE:END -->
  
 <!-- Badges and links -->

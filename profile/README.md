@@ -1,11 +1,13 @@
-## Hola! 👋
+## 👋 Hola!
 
 Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro para la divulgación de Ciencia de Datos. Formamos parte de los grupos oficiales de [Google](https://www.tensorflow.org/community/groups?authuser=1).
 
-## Nuestras redes 
+## 🌐 Nuestras redes 
 [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord] [![][badge-telegram]][url-telegram]
- 
-## Nuestras últimas charlas 
+
+## 📅 Próximos eventos 
+- **31 de agosto:** Tutorial de Autoencoders con Adrián Soto Suárez
+## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
 ### [¿Cómo procesar cientos de miles de datos astronómicos? - Esteban Reyes, ALerce, Fintual](https://www.youtube.com/watch?v=JESe93_tvdc)
 

@@ -9,23 +9,23 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 <!-- YOUTUBE:START -->
 ### [¿Cómo procesar cientos de miles de datos astronómicos? - Esteban Reyes, ALerce, Fintual](https://www.youtube.com/watch?v=JESe93_tvdc)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=JESe93_tvdc"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=JESe93_tvdc"><img src="https://img.youtube.com/vi/JESe93_tvdc/0.jpg"></a></p>
 
 ### [Workshop: Natural Language Processing with TensorFlow with Merve Noyan](https://www.youtube.com/watch?v=nqgjcVitshw)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=nqgjcVitshw"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=nqgjcVitshw"><img src="https://img.youtube.com/vi/nqgjcVitshw/0.jpg"></a></p>
 
 ### [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=Yr2U8l_ofCs"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Yr2U8l_ofCs"><img src="https://img.youtube.com/vi/Yr2U8l_ofCs/0.jpg"></a></p>
 
 ### [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=pRGkMZRr5Hk"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=pRGkMZRr5Hk"><img src="https://img.youtube.com/vi/pRGkMZRr5Hk/0.jpg"></a></p>
 
 ### [Machine Learning Competitivo: top 1% en Kaggle - Daniel Pereda](https://www.youtube.com/watch?v=0o72ndnTnCQ)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=0o72ndnTnCQ"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=0o72ndnTnCQ"><img src="https://img.youtube.com/vi/0o72ndnTnCQ/0.jpg"></a></p>
 <!-- YOUTUBE:END -->
  
 <!-- Badges and links -->

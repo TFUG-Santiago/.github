@@ -17,3 +17,5 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_O43Juzt06b9kgP0d-QgSQ"
           readme_path: "./profile/README.md"
+          # template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '### [$title]($url)$newline<p align="center"><a href="$url"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>$newline'

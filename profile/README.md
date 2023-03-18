@@ -9,6 +9,10 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 - **31 de agosto:** Tutorial de Autoencoders con Adrián Soto Suárez
 ## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+### [Aplicaciones y Desafíos del Procesamiento del Lenguaje Natural en el Área Médica - Matías Rojas, CMM](https://www.youtube.com/watch?v=doWWRp9r0vw)
+
+<p align="center"><a href="https://www.youtube.com/watch?v=doWWRp9r0vw"><img src="https://img.youtube.com/vi/doWWRp9r0vw/0.jpg"></a></p>
+
 ### [Reducción de dimensionalidad con Autoencoders - Adrián Soto](https://www.youtube.com/watch?v=UlJUwLWFnrw)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=UlJUwLWFnrw"><img src="https://img.youtube.com/vi/UlJUwLWFnrw/0.jpg"></a></p>
@@ -24,10 +28,6 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 ### [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=Yr2U8l_ofCs"><img src="https://img.youtube.com/vi/Yr2U8l_ofCs/0.jpg"></a></p>
-
-### [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
-
-<p align="center"><a href="https://www.youtube.com/watch?v=pRGkMZRr5Hk"><img src="https://img.youtube.com/vi/pRGkMZRr5Hk/0.jpg"></a></p>
 <!-- YOUTUBE:END -->
  
 <!-- Badges and links -->

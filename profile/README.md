@@ -5,8 +5,6 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 ## 🌐 Nuestras redes 
 [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord] [![][badge-telegram]][url-telegram]
 
-## 📅 Próximos eventos 
-- **31 de agosto:** Tutorial de Autoencoders con Adrián Soto Suárez
 ## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
 ### [Aplicaciones y Desafíos del Procesamiento del Lenguaje Natural en el Área Médica - Matías Rojas, CMM](https://www.youtube.com/watch?v=doWWRp9r0vw)

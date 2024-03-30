@@ -7,6 +7,10 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 
 ## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+### [Técnicas de dividir texto y aplicaciones a LLMs - Oziel Aguilera, Replai](https://www.youtube.com/watch?v=1GJdOqRy5y8)
+
+<p align="center"><a href="https://www.youtube.com/watch?v=1GJdOqRy5y8"><img src="https://img.youtube.com/vi/1GJdOqRy5y8/0.jpg"></a></p>
+
 ### [Aplicaciones y Desafíos del Procesamiento del Lenguaje Natural en el Área Médica - Matías Rojas, CMM](https://www.youtube.com/watch?v=doWWRp9r0vw)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=doWWRp9r0vw"><img src="https://img.youtube.com/vi/doWWRp9r0vw/0.jpg"></a></p>
@@ -22,10 +26,6 @@ Somos TensorFlow User Group (TFUG) Santiago, una comunidad sin fines de lucro pa
 ### [Workshop: Natural Language Processing with TensorFlow with Merve Noyan](https://www.youtube.com/watch?v=nqgjcVitshw)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=nqgjcVitshw"><img src="https://img.youtube.com/vi/nqgjcVitshw/0.jpg"></a></p>
-
-### [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
-
-<p align="center"><a href="https://www.youtube.com/watch?v=Yr2U8l_ofCs"><img src="https://img.youtube.com/vi/Yr2U8l_ofCs/0.jpg"></a></p>
 <!-- YOUTUBE:END -->
  
 <!-- Badges and links -->
